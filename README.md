@@ -1,5 +1,18 @@
 # HCL Hackathon
 
+**Problem Statement**
+
+Participants must design and implement a robust retail data pipeline that:
+
+* Ingests high-volume transactional data from multiple sources
+* Validates and cleans data using predefined quality rules
+* Accurately calculates customer loyalty points
+* Performs customer segmentation using behavioral metrics
+* Identifies high-value and at-risk customers for targeted engagement
+
+The system should be scalable, auditable, and suitable for real-world retail environments.
+
+
 
 The pipeline was intentionally designed to remain database-agnostic, ensuring that infrastructure constraints would not prevent insight generation while maintaining compatibility with relational database systems.
 
