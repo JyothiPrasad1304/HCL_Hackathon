@@ -1,6 +1,6 @@
 # HCL Hackathon
 
-**Problem Statement**
+**PROBLEM STATEMENT**
 
 Participants must design and implement a robust retail data pipeline that:
 
