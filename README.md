@@ -29,7 +29,6 @@ The pipeline was intentionally designed to remain database-agnostic, ensuring th
 - Faker
 - Streamlit
 - DateTime
-- SQLAlchemy
 
 **Development Tools**
 - VS Code
